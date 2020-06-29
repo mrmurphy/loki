@@ -5,4 +5,4 @@ services:
     disk:
       name: data
       mountPath: /var/lib/loki
-      sizeGB: 250
+      sizeGB: 10
